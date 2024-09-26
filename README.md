@@ -1,5 +1,5 @@
 ## 🤖 Introduction
-Carepulse is a healthcare patient management system developed to simplify patient registration, appointment scheduling, and medical records management for healthcare providers.
+Carepulse is a healthcare patient management system developed to simplify patient registration, appointment scheduling, and medical records management for healthcare providers, along with SMS notifications.
 
 Patients can register and book an appointment with their preferred doctor from the available doctors.
 
